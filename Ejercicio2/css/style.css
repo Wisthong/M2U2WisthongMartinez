@@ -1,0 +1,35 @@
+body{
+    background: #edf6f9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+h1{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: #023e8a;
+    text-align: center;
+}
+
+input{
+    display: grid;
+    margin: 10px 40px;
+    background-color: #ee880b;
+    color: #ffffff; 
+    text-align: center;   
+}
+
+#res, button, a{
+    font-size: 3rem;
+    color: #ffffff;    
+    background-color: #000000;
+    border: 3px dashed #0077b6;
+    margin: 40px;
+    padding: 20px;
+}
+
+
+
+button, a{
+    font-size: 1rem;
+}

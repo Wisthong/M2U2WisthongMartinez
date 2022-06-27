@@ -1,0 +1,17 @@
+body {
+    background-color: beige;    
+  }
+  
+  td{
+    text-align: center;
+  }
+  
+  .red{
+    color: red;
+    font-size: 1.2rem;
+  }
+  
+  .blue{
+    color: blue;
+    font-size: 1.5rem;
+  }
