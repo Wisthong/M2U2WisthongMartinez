@@ -13,13 +13,13 @@ h1{
 
 input{
     display: grid;
-    margin: 10px 40px;
+    margin: 20px 40px;
     background-color: #ee880b;
     color: #ffffff; 
     text-align: center;   
 }
 
-#res, button, a{
+#res, button{
     font-size: 3rem;
     color: #ffffff;    
     background-color: #000000;
@@ -30,6 +30,7 @@ input{
 
 
 
-button, a{
+button{
     font-size: 1rem;
 }
+
